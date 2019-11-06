@@ -1,4 +1,4 @@
-package com.baizhi.entity;
+﻿package com.baizhi.entity;
 
 import java.util.Objects;
 
@@ -75,5 +75,6 @@ public class Student {
                 ", sex='" + sex + '\'' +
                 '}';
     }
+	
 }
 
