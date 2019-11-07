@@ -1,4 +1,4 @@
-﻿package com.baizhi.entity;
+package com.baizhi.entity;
 
 import java.util.Objects;
 
@@ -10,14 +10,12 @@ public class Student {
 //这是githut上做的修改
     public Student() {
     }
-
     public Student(String id, String name, int age, String sex) {
         this.id = id;
         this.name = name;
         this.age = age;
         this.sex = sex;
     }
-
     public String getId() {
         return id;
     }
